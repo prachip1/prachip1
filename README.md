@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI Development
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on Reactjs projects
-- 📫 Reach me through mail uxprachi@gmail.com
+- 📫 Reach me through mail prachip1908@gmail.com
 
 <!---
 prachip1/prachip1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
