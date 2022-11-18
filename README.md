@@ -4,7 +4,7 @@
 
 </div>
 
-- 👋 Hi, I’m @prachip1
+- 👋 Hi, I’m @prachip1  :woman_technologist:
 - 👀 I’m interested in UI Development
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking for a Job in UI development
@@ -23,6 +23,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=prachip1&style=flat-square&color=blue" alt=""/>
 
+
+Tools I think I love and can work with
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="100">
+</div>
 
 
 
