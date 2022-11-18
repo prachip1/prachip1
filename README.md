@@ -1,3 +1,14 @@
+<div id="header" align="center">
+
+<img src="https://media.giphy.com/media/wfSJ97ypGvHPdJjZPj/giphy.gif" width="600">
+
+</div>
+
+
+
+
+
+
 - 👋 Hi, I’m @prachip1
 - 👀 I’m interested in UI Development
 - 🌱 I’m currently learning Reactjs
