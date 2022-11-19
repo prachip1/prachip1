@@ -25,9 +25,9 @@
 
 
 
-
+🧰 Tools I think I love and can work with
 <div>
-  🧰 Tools I think I love and can work with
+  
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="100">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="100">
@@ -39,8 +39,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="100">
 </div>
 
+
+
+ 🔥 🔥 Stats
 <div>
-  🔥 🔥 Stats
+
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prachip1&theme=nightowl&hide_border=true&border_radius=7.2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
