@@ -42,7 +42,7 @@
 
 
  🔥 🔥 Stats
-<div>
+<div width="600">
 
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prachip1&theme=nightowl&hide_border=true&border_radius=7.2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
