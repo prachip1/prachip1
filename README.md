@@ -28,6 +28,8 @@ Tools I think I love and can work with
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="100">
+<img src=" https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="100">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="100">
 </div>
 
 
