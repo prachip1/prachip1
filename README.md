@@ -4,11 +4,11 @@
 
 </div>
 
-- 👋 Hi, I’m @prachip1  :woman_technologist:
-- 👀 I’m interested in UI Development
+- 👋 Hi, I’m Prachi  :woman_technologist:
+- 👀 I’m interested in UI development.
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking for a Job in UI development
-- 📫 Reach me through mail prachip1908@gmail.com
+- 📫 Reach me through mail prachip1908@gmail.com or any social below:
 
 
 <div id="badges">
@@ -30,6 +30,11 @@ Tools I think I love and can work with
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="100">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="100">
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100">
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="100">
 </div>
 
 
