@@ -7,7 +7,7 @@
 - 👋 Hi, I’m Prachi  :woman_technologist:
 - 👀 I’m interested in UI development.
 - 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking for a Job in UI development
+- 💞️ I’m looking for a Job Role as Frontend Developer
 - 📫 Reach me through mail prachip1908@gmail.com or any social below:
 
 
