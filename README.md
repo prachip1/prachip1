@@ -25,7 +25,7 @@
 
 
 
-🧰 Tools I think I love and can work with
+🧰 Tools I love and can work with
 <div>
   
   
