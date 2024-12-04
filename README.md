@@ -37,6 +37,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="100">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100">
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="100">
+<img src="[https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg)" width="100">
 </div>
 
 
