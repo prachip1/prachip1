@@ -5,10 +5,10 @@
 </div>
 
 - 👋 Hi, I’m Prachi  :woman_technologist:
-- 👀 I’m interested in UI development.
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking for a Job Role as Frontend Developer
-- 📫 Reach me through mail prachip1908@gmail.com or any social below:
+- 👀 I’m interested in building AI-powered web apps.
+- 🌱 I’m currently learning more about AI-powered tools.
+- 💞️ I’m also looking for remote work as a full-stack developer where I can contribute to making the best real-time products.
+- 📫 Reach me through mail prachiscoding@gmail.com or any social below:
 
 
 <div id="badges">
