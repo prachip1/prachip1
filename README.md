@@ -8,7 +8,7 @@
 - 👀 I’m interested in building AI-powered web apps.
 - 🌱 I’m currently learning more about AI-powered tools.
 - 💞️ I’m also looking for remote work as a full-stack developer where I can contribute to making the best real-time products.
-- 📫 Reach me through mail prachiscoding@gmail.com or any social below:
+- 📫 Reach me through mail prachip1908@gmail.com or prachiscoding@gmail.com or any social below:
 
 
 <div id="badges">
